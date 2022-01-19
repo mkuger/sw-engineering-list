@@ -1,4 +1,4 @@
-# My list of tools, libs, best practices and more
+# tools, libs, best practices & more
 
 ## Ops
 

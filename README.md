@@ -6,4 +6,4 @@
 - [kubeval](https://github.com/instrumenta/kubeval) - Validate your Kubernetes configuration files, supports multiple Kubernetes versions
 
 ## Hardware
-- [buildist](https://buildlist.org) - List of resources for 3d printing, PCB manufacturing, etc.
+- [buildlist](https://buildlist.org) - List of resources for 3d printing, PCB manufacturing, etc.
